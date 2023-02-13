@@ -1,2 +1,2 @@
-const value = true;
-export deafult value
+const canDance =true;
+module.exports = canDance;
